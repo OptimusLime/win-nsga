@@ -1,6 +1,6 @@
 {
   "name": "win-nsga",
-  "version": "0.0.1",
+  "version": "0.0.1-1",
   "description": "Create and manage an evolutionary algorithm that runs the NSGA-II multiobjective search algorithm (bit redundant). This is a WIN module. ",
   "scripts": [
     "lib/winnsga.js",
@@ -12,7 +12,7 @@
     "optimuslime/win-gen": "*",
     "optimuslime/win-schema": "*",
     "optimuslime/traverse": "*",
-    "optimuslime/win-utils": "0.x.x",
+    "optimuslime/win-utils": "0.x.x"
   },
   "main": "lib/winnsga.js"
 }
