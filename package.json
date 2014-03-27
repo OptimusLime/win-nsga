@@ -1,0 +1,35 @@
+{
+  "name": "win-nsga",
+  "version": "0.0.1",
+  "description": "Create and manage an evolutionary algorithm that runs the NSGA-II multiobjective search algorithm (bit redundant). This is a WIN module. ",
+  "keywords": [
+    "Evolution",
+    "Artificial Neural Networks",
+    "WIN"
+  ],
+  "author": {
+    "name": "Paul Szerlip",
+    "email": "Paul.Szerlip@cs.ucf.edu",
+    "url": "http://designforcode.com/"
+  },
+  "main": "lib/winnsga.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OptimusLime/win-nsga.git"
+  },
+  "bugs": "https://github.com/OptimusLime/win-nsga/issues",
+  "license": "MIT",
+  "dependencies": {
+    "q": "*",
+    "optimuslime-traverse": "*",
+    "win-utils": "0.x.x"
+  },
+  "devDependencies": {
+    "colors": "*",
+    "win-backbone": "*",
+    "win-gen": "*",
+    "win-schema": "*",
+    "mocha": "1.1.x",
+    "should": "1.1.x"
+  }
+}
