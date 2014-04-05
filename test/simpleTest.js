@@ -25,14 +25,7 @@ var emptyModule =
 		return [
 			"evolution:nsga-startEvolution"
 			];
-	},
-	initialize : function(done)
-    {
-        process.nextTick(function()
-        {
-            done();
-        })
-    }
+	}
 };
 var cIx = 0;
 //sample encoding that known how to create its own children -- randomly clone a parent
