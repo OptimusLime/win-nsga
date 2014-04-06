@@ -1,6 +1,6 @@
 {
   "name": "win-nsga",
-  "version": "0.0.1-5",
+  "version": "0.0.1-6",
   "description": "Create and manage an evolutionary algorithm that runs the NSGA-II multiobjective search algorithm (bit redundant). This is a WIN module. ",
   "keywords": [
     "Evolution",
